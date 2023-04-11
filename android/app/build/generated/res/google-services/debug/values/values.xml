@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">175538402121-hb5ulo170uajrbmjuh2g1b1g0aqi9nai.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">175538402121</string>
+    <string name="google_api_key" translatable="false">AIzaSyB5RWlIHecXLWX_KzIgbAKkXai3nvOUFdI</string>
+    <string name="google_app_id" translatable="false">1:175538402121:android:dbd3f95f6166bcb1fd2098</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB5RWlIHecXLWX_KzIgbAKkXai3nvOUFdI</string>
+    <string name="google_storage_bucket" translatable="false">roby-hub-2d837.appspot.com</string>
+    <string name="project_id" translatable="false">roby-hub-2d837</string>
+</resources>

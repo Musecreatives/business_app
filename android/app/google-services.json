@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "175538402121",
+    "project_id": "roby-hub-2d837",
+    "storage_bucket": "roby-hub-2d837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175538402121:android:79847e9ac38847fffd2098",
+        "android_client_info": {
+          "package_name": "com.robyhub.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175538402121-okpe657a62d0ssbgp2s252kfu334778a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robyhub.admin",
+            "certificate_hash": "b3668291390caa6a9167d05577089d2d6f6fc221"
+          }
+        },
+        {
+          "client_id": "175538402121-hb5ulo170uajrbmjuh2g1b1g0aqi9nai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5RWlIHecXLWX_KzIgbAKkXai3nvOUFdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175538402121-hb5ulo170uajrbmjuh2g1b1g0aqi9nai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "175538402121-6uk10lluk862j9vkv0q1rrnfd4ve8heb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.robyhub.robyhub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175538402121:android:dbd3f95f6166bcb1fd2098",
+        "android_client_info": {
+          "package_name": "com.robyhub.robyhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175538402121-3k923hdv36vamhdgdqhrqd6s44vanq2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robyhub.robyhub",
+            "certificate_hash": "9582ccc0d143bfadb99a54d2b5732d35b4a92e0a"
+          }
+        },
+        {
+          "client_id": "175538402121-dgcv531gr4dcl5pvsg3eoa1s5sjqff0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robyhub.robyhub",
+            "certificate_hash": "420695bee527f4f93d2bd1d1e1efbeff8692d54b"
+          }
+        },
+        {
+          "client_id": "175538402121-hb5ulo170uajrbmjuh2g1b1g0aqi9nai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5RWlIHecXLWX_KzIgbAKkXai3nvOUFdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175538402121-hb5ulo170uajrbmjuh2g1b1g0aqi9nai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "175538402121-6uk10lluk862j9vkv0q1rrnfd4ve8heb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.robyhub.robyhub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175538402121:android:7dd50bd0c810846cfd2098",
+        "android_client_info": {
+          "package_name": "com.robyhub.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175538402121-2l55lsmrblq4jjsmlor3acol9nkf24jg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robyhub.user",
+            "certificate_hash": "0a74a9075c95260ba7662a4ac71e6a3edebf8739"
+          }
+        },
+        {
+          "client_id": "175538402121-4kie8ihgrgju5vdqs3eijnl3kbv9h31u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robyhub.user",
+            "certificate_hash": "420695bee527f4f93d2bd1d1e1efbeff8692d54b"
+          }
+        },
+        {
+          "client_id": "175538402121-a6drojj3gq785gsm372776dct12dfsgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robyhub.user",
+            "certificate_hash": "4985854970ea1de37e8828cabb057cc6069beee2"
+          }
+        },
+        {
+          "client_id": "175538402121-hb5ulo170uajrbmjuh2g1b1g0aqi9nai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5RWlIHecXLWX_KzIgbAKkXai3nvOUFdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175538402121-hb5ulo170uajrbmjuh2g1b1g0aqi9nai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "175538402121-6uk10lluk862j9vkv0q1rrnfd4ve8heb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.robyhub.robyhub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
